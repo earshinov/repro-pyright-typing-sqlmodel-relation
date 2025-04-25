@@ -2,4 +2,8 @@
 :nofooter:
 :linkattrs:
 
-Repro for https://github.com/microsoft/pyright/issues/10373
+Repro for https://github.com/microsoft/pyright/issues/10373.
+
+_Update_: Simplified according to [comment](https://github.com/microsoft/pyright/issues/10373#issuecomment-2831326655).
+
+_Update_: Resolved by updating SQLModel to 0.0.24.
