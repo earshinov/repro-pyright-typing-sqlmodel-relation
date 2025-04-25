@@ -1,0 +1,5 @@
+= repro-pyright-typing-sqlmodel-relation
+:nofooter:
+:linkattrs:
+
+Repro for https://github.com/microsoft/pyright/issues/10373
